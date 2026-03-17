@@ -1,10 +1,53 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
+To design and develop UML diagrams for a Library Management System that manages book records, member information, and borrowing/return transactions efficiently.
 
 # SRS (Procedure):
+1.Identify the objectives and scope of the system.
 
+2.Collect and analyze user and system requirements.
+
+3.Specify functional and non-functional requirements.
+
+4.Prepare, review, and finalize the SRS document
 # DIAGRAMS:
-(upload all 6 diagrams)
+```python
+Usecase Diagram
+```
+
+<img width="946" height="885" alt="Screenshot 2025-11-04 111310" src="https://github.com/user-attachments/assets/2a6247b8-5803-4020-bce8-964f1112d0aa" />
+
+
+```python
+Class Diagram
+```
+
+<img width="1070" height="767" alt="image" src="https://github.com/user-attachments/assets/9695b2b1-464e-46d8-83e4-ebd2f0eda5f9" />
+
+```python
+Sequence Diagram
+```
+
+<img width="1214" height="888" alt="image" src="https://github.com/user-attachments/assets/276613a5-bf5e-4e7b-8af8-c0c8afa2f4b8" />
+
+```python
+Activity Diagram
+```
+
+<img width="733" height="869" alt="image" src="https://github.com/user-attachments/assets/a2772c0f-18de-494f-9cdb-0be31d537dec" />
+
+```python
+Communication Diagram
+```
+
+<img width="1141" height="851" alt="image" src="https://github.com/user-attachments/assets/9233f376-a80a-4a7a-a6db-dcb0fb9ba864" />
+
+```python
+Package Diagram
+```
+
+<img width="1153" height="868" alt="image" src="https://github.com/user-attachments/assets/0cee2fa5-0cf8-4dea-9f2a-8a0b258bb7b9" />
 
 # RESULT:
+Thus, the Library Management System was successfully designed using UML diagrams, clearly representing the functional flow, data handling, and interactions among system components.
